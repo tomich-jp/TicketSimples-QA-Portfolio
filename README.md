@@ -17,5 +17,6 @@ Validar o fluxo de suporte de TI, garantindo que a transição de canais informa
 - [/test-scenarios](./test-scenarios): Cenários de comportamento em Gherkin.
 - [/test-cases](./test-cases): Casos de teste manuais detalhados.
 - [/evidence](./evidence): Prints e logs de execução (Bugs e Sucessos).
+- [Documentação de Regras de Negócio](./docs/DOCUMENTACAO_PROJETO.md)
 
 
