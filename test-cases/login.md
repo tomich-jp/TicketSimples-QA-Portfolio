@@ -1,5 +1,5 @@
 # Casos de Teste - Funcionalidade de Login
-**Documento de Referência:** `test-scenarios/login.feature`  
+**Documento de Referência:** `test-cases/login.md`  
 **Sistema:** TicketSimples  
 **Responsável:** João Pedro Tomich
 
